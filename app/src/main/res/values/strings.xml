@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Veículos</string>
+    <string-array name="tipos">
+        <item>Camionete</item>
+        <item>SUV</item>
+        <item>SRV</item>
+    </string-array>
+</resources>
